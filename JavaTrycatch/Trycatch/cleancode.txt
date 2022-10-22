@@ -1,0 +1,5 @@
+Isso e um teste
+
+de exceptions em java
+
+exceptions checked

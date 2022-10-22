@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd65e76b-da6e-47b3-be19-a5cf8bb522aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaCollection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/classeExercicios/Fundamentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/classeExercicios/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Heranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/agregacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/agregacao/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/comportamental/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/comportamental/Cupom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/estrutural/composicao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/associacao/estrutural/composicao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/downcastupcast/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/downcastupcast/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/downcastupcast/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/downcastupcast/UpCastAndDownCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/polimorfismoandsobrescrita/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/polimorfismoandsobrescrita/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/polimorfismoandsobrescrita/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/heranca/polimorfismoandsobrescrita/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/interfaces/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOrientacaoObjetos/src/br/com/orientacaoobjetos/fundamentos/interfaces/OperacaoMatematica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCollection/StreamApi/src/br/com/streamApi/ExerciciosStreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCollection/StreamApi/src/br/com/streamApi/ExerciciosStreamApi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2G8OtoNwpH5RzVNPsBkCp7s3yAn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Vitor/JavaMetodos/JavaTrycatch/Trycatch"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd65e76b-da6e-47b3-be19-a5cf8bb522aa" name="Changes" comment="" />
+      <created>1665766961479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665766961479</updated>
+    </task>
+    <servers />
+  </component>
+</project>

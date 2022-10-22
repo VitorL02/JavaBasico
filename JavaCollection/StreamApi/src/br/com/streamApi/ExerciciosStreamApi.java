@@ -59,6 +59,7 @@ public class ExerciciosStreamApi {
                         .filter(integer -> integer % 2 == 0 && integer > 2).collect(Collectors.toList());
         System.out.println(listParesMaioresQueDois);
 
+
         System.out.println("Mostre a media dos numeros");
         numerosAleatorios.stream().mapToInt(value -> Integer.parseInt(value)).average()
                 .ifPresent(value -> System.out.println(value));
